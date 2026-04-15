@@ -12,3 +12,12 @@ text-align: center
 iframe{
 justify-content:center}
 
+tr{
+border:solid gray 3em;
+boder-shadow: box-border;
+}
+td{
+
+border:solid gray 3em;
+boder-shadow: box-border;
+}
