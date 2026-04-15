@@ -21,3 +21,8 @@ td{
 border:solid gray 3em;
 boder-shadow: box-border;
 }
+table{
+border: solid gray 3em;
+border-shadow:box-border;
+}
+
