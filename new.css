@@ -4,6 +4,7 @@ font-size : 3em;
 font-weight:bold;
 }
 container {
+border:3px solid black;
 box-style:box-border;
 box-sizing: border-box;
 margin:3px;
