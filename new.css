@@ -3,6 +3,14 @@ text-align:center;
 font-size : 3em;
 font-weight:bold;
 }
+container {
+box-style:box-border;
+box-sizing: border-box;
+
+}
+ 
+
+}
 footer{
 text-align:center;
 }
