@@ -6,7 +6,8 @@ font-weight:bold;
 container {
 box-style:box-border;
 box-sizing: border-box;
-
+margin:3px;
+padding:2px;
 
 }
  
